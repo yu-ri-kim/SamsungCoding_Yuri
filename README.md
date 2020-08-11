@@ -1,2 +1,5 @@
 # Algorithm
-java와 c++을 이용한 알고리즘 문제 풀이
+ - java, c++
+ - eclipse, vs studio
+ - BOJ([v1226q](https://www.acmicpc.net/user/v1226q)), SWEA
+ - 하루에 하나 이상 작성하기 👀
